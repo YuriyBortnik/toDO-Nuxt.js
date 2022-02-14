@@ -1,0 +1,20 @@
+.input {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  width: 100%;
+
+  &__type {
+    width: 100%;
+    box-sizing: border-box;
+  }
+}
+
+.addText {
+  display: flex;
+  align-content: center;
+  margin-left: 5px;
+  font-size: 26px;
+  font-weight: bold;
+  cursor: pointer;
+}

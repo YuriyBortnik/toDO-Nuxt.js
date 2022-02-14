@@ -1,0 +1,25 @@
+.task {
+  display: flex;
+  align-content: center;
+  margin-bottom: 10px;
+
+  &-check {
+    margin-right: 5px;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+  }
+
+  &-text {
+    line-height: 20px;
+
+    .lineThrough & {
+      text-decoration: line-through;
+    }
+  }
+}
+
+.remove {
+  margin: 0 0 0 auto;
+  padding: 2px;
+}
