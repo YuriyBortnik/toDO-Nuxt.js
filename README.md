@@ -1,4 +1,4 @@
-# toDO-academy
+# toDO
 
 ## Build Setup
 
