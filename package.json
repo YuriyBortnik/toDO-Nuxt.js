@@ -32,5 +32,5 @@
     "sass-loader": "^10",
     "webpack": "^4.46.0"
   },
-  "homepage": "https://yuriybortnik.github.io/toDo-Nuxt"
+  "homepage": "https://yuriybortnik.github.io/toDO-Nuxt.js"
 }
